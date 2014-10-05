@@ -14,6 +14,5 @@ http://www.gnu.org/licenses/gpl.html
  
 Contributors:
 Valerio Formicola, 
-PhD in Information Engineering
 https://github.com/ValeFormi
 
