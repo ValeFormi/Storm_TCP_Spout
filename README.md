@@ -13,6 +13,10 @@ which accompanies this distribution, and is available at
 http://www.gnu.org/licenses/gpl.html
  
 Contributors:
+<<<<<<< HEAD
 Valerio Formicola, 
+=======
+Valerio Formicola
+>>>>>>> origin/master
 https://github.com/ValeFormi
 
